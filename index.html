@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Misbah Ayyub Khan's Full Stack Developer Portfolio">
+    <title>Misbah Ayyub Khan | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Animated background -->
+    <div class="background-glow"></div>
+    <div class="stars"></div>
+
+    <!-- Navigation bar -->
+    <header class="header">
+        <nav class="navbar">
+            <a href="#home" class="logo">Misbah<span>.</span></a>
+
+            <div class="nav-links">
+                <a href="#home">Home</a>
+                <a href="#about">About Me</a>
+                <a href="#skills">Skills</a>
+                <a href="#projects">Projects</a>
+                <a href="#experience">Experience</a>
+                <a href="#contact">Contact Me</a>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+
+        <!-- Home section -->
+        <section class="hero" id="home">
+
+            <div class="hero-content">
+                <p class="welcome">WELCOME TO MY PORTFOLIO</p>
+
+                <h1>Hi, I'm <span>Misbah Ayyub Khan</span></h1>
+
+                <h2>Aspiring Full Stack Developer</h2>
+
+                <p class="intro">
+                    I am a BCA student passionate about coding,
+                    learning new technologies, solving logical problems
+                    and creating beautiful websites.
+                </p>
+
+                <div class="hero-buttons">
+                    <a href="#projects" class="btn">View My Projects</a>
+                    <a href="#contact" class="btn btn-outline">Contact Me</a>
+                </div>
+
+                <p class="tech-line">
+                    HTML <span>•</span> CSS <span>•</span>
+                    Java <span>•</span> JavaScript
+                </p>
+            </div>
+
+            <!-- Profile picture -->
+            <div class="profile-container">
+
+                <div class="orbit orbit-one"></div>
+                <div class="orbit orbit-two"></div>
+
+                <div class="profile-circle">
+                    <img src="misbah.jpg"
+                         alt="Misbah Ayyub Khan">
+                </div>
+
+                <span class="floating-dot dot-one"></span>
+                <span class="floating-dot dot-two"></span>
+
+                <div class="profile-label">Future Software Engineer</div>
+
+            </div>
+
+        </section>
+
+        <!-- About me -->
+        <section class="section" id="about">
+
+            <p class="section-label">GET TO KNOW ME</p>
+            <h2 class="section-title">About <span>Me</span></h2>
+
+            <div class="about-card">
+                <h3>Aspiring Software Developer</h3>
+
+                <p>
+                    My name is Misbah Ayyub Khan. I am pursuing BCA
+                    and learning programming step by step. I enjoy
+                    understanding code, solving problems and developing
+                    creative websites. My career goal is to become
+                    a professional software engineer and build useful,
+                    reliable web applications.
+                </p>
+
+                <div class="info-grid">
+
+                    <div class="info-item">
+                        <strong>Full Name</strong>
+                        <p>Misbah Ayyub Khan</p>
+                    </div>
+
+                    <div class="info-item">
+                        <strong>Education</strong>
+                        <p>BCA — Pursuing</p>
+                    </div>
+
+                    <div class="info-item">
+                        <strong>Career Goal</strong>
+                        <p>Full Stack Developer</p>
+                    </div>
+
+                    <div class="info-item">
+                        <strong>Email</strong>
+                        <p>khanmisba2424@gmail.com</p>
+                    </div>
+
+                </div>
+            </div>
+
+        </section>
+
+        <!-- Career interests -->
+        <section class="section" id="roles">
+
+            <p class="section-label">MY CAREER INTERESTS</p>
+            <h2 class="section-title">I'm Suitable <span>For</span></h2>
+
+            <div class="role-grid">
+
+                <div class="role-card">
+                    <div class="role-icon">💻</div>
+                    <h3>Frontend Developer</h3>
+                    <p>Creating attractive and responsive websites.</p>
+                </div>
+
+                <div class="role-card">
+                    <div class="role-icon">⚙️</div>
+                    <h3>Backend Developer</h3>
+                    <p>Learning Java, application logic and databases.</p>
+                </div>
+
+                <div class="role-card">
+                    <div class="role-icon">🚀</div>
+                    <h3>Full Stack Developer</h3>
+                    <p>Learning to build complete web applications.</p>
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- Expertise and skills -->
+        <section class="section" id="skills">
+
+            <p class="section-label">WHAT I'M LEARNING</p>
+            <h2 class="section-title">My <span>Expertise</span></h2>
+
+            <div class="expertise-card">
+
+                <div class="expertise-icon">&lt;/&gt;</div>
+
+                <div>
+                    <h3>Web Development</h3>
+                    <p>
+                        Learning website structure, styling, responsive
+                        layouts, programming fundamentals and databases.
+                    </p>
+                </div>
+
+            </div>
+
+            <h3 class="subheading">Technical Skills</h3>
+
+            <div class="skills-grid">
+
+                <div class="skill-card">
+                    <div class="skill-icon html">5</div>
+                    <p>HTML5</p>
+                </div>
+
+                <div class="skill-card">
+                    <div class="skill-icon css">3</div>
+                    <p>CSS3</p>
+                </div>
+
+                <div class="skill-card">
+                    <div class="skill-icon js">JS</div>
+                    <p>JavaScript</p>
+                </div>
+
+                <div class="skill-card">
+                    <div class="skill-icon java">J</div>
+                    <p>Java</p>
+                </div>
+
+                <div class="skill-card">
+                    <div class="skill-icon sql">DB</div>
+                    <p>SQL</p>
+                </div>
+
+                <div class="skill-card">
+                    <div class="skill-icon git">G</div>
+                    <p>Git</p>
+                </div>
+
+            </div>
+
+            <h3 class="subheading">Soft Skills</h3>
+
+            <div class="soft-skills">
+
+                <div class="soft-skill">
+                    <span>◷</span>
+                    <p>Time Management</p>
+                </div>
+
+                <div class="soft-skill">
+                    <span>✓</span>
+                    <p>Problem Solving</p>
+                </div>
+
+                <div class="soft-skill">
+                    <span>♧</span>
+                    <p>Teamwork</p>
+                </div>
+
+                <div class="soft-skill">
+                    <span>↗</span>
+                    <p>Continuous Learning</p>
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- Projects -->
+        <section class="section" id="projects">
+
+            <p class="section-label">MY WORK</p>
+            <h2 class="section-title">My <span>Projects</span></h2>
+
+            <div class="project-grid">
+
+                <article class="project-card">
+
+                    <div class="project-image project-image-one">
+                        <span>&lt;/&gt;</span>
+                    </div>
+
+                    <div class="project-info">
+                        <h3>Personal Portfolio</h3>
+                        <p>
+                            A personal portfolio website with a dark
+                            blue background, circular profile picture
+                            and CSS animations.
+                        </p>
+                        <a href="#home" class="project-btn">
+                            View Project
+                        </a>
+                    </div>
+
+                </article>
+
+                <article class="project-card">
+
+                    <div class="project-image project-image-two">
+                        <span>✓</span>
+                    </div>
+
+                    <div class="project-info">
+                        <h3>To-Do List</h3>
+                        <p>
+                            A task management project idea for organising
+                            daily activities and tracking tasks.
+                        </p>
+                        <a href="#contact" class="project-btn">
+                            View Project
+                        </a>
+                    </div>
+
+                </article>
+
+                <article class="project-card">
+
+                    <div class="project-image project-image-three">
+                        <span>🛒</span>
+                    </div>
+
+                    <div class="project-info">
+                        <h3>E-Commerce Website</h3>
+                        <p>
+                            A shopping website concept featuring product
+                            cards and a clean user interface.
+                        </p>
+                        <a href="#contact" class="project-btn">
+                            View Project
+                        </a>
+                    </div>
+
+                </article>
+
+            </div>
+
+        </section>
+
+        <!-- Experience -->
+        <section class="section" id="experience">
+
+            <p class="section-label">MY PROFESSIONAL JOURNEY</p>
+            <h2 class="section-title">Experience & <span>Learning</span></h2>
+
+            <div class="timeline">
+
+                <div class="timeline-item">
+                    <span class="timeline-dot"></span>
+
+                    <div class="timeline-content">
+                        <p class="timeline-date">Present</p>
+                        <h3>BCA Student</h3>
+                        <p>
+                            Studying computer applications and developing
+                            programming fundamentals.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <span class="timeline-dot"></span>
+
+                    <div class="timeline-content">
+                        <p class="timeline-date">Current Learning</p>
+                        <h3>Web Development Training</h3>
+                        <p>
+                            Practising HTML, CSS, responsive layouts,
+                            web page styling and animations.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <span class="timeline-dot"></span>
+
+                    <div class="timeline-content">
+                        <p class="timeline-date">Career Goal</p>
+                        <h3>Full Stack Developer</h3>
+                        <p>
+                            Preparing to develop real-world projects,
+                            learn backend programming and gain
+                            professional industry experience.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+
+            <p class="experience-note">
+                Professional experience and duration can be added
+                when supported by actual work experience.
+            </p>
+
+        </section>
+
+        <!-- Qualifications -->
+        <section class="section" id="education">
+
+            <p class="section-label">MY ACADEMIC BACKGROUND</p>
+            <h2 class="section-title">My <span>Qualifications</span></h2>
+
+            <div class="education-card">
+
+                <div class="education-item">
+                    <span class="education-dot"></span>
+                    <div>
+                        <h3>SSC</h3>
+                        <p>Secondary School Certificate</p>
+                    </div>
+                </div>
+
+                <div class="education-item">
+                    <span class="education-dot"></span>
+                    <div>
+                        <h3>HSC</h3>
+                        <p>Higher Secondary Certificate — Science</p>
+                    </div>
+                </div>
+
+                <div class="education-item">
+                    <span class="education-dot"></span>
+                    <div>
+                        <h3>Bachelor of Computer Applications</h3>
+                        <p>BCA — Pursuing</p>
+                    </div>
+                </div>
+
+                <div class="education-item">
+                    <span class="education-dot"></span>
+                    <div>
+                        <h3>Technical Learning</h3>
+                        <p>Web development and programming practice</p>
+                    </div>
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- Contact -->
+        <section class="section" id="contact">
+
+            <p class="section-label">LET'S CONNECT</p>
+            <h2 class="section-title">Contact <span>Me</span></h2>
+
+            <div class="contact-card">
+
+                <p class="contact-intro">
+                    I'm interested in software development opportunities,
+                    learning experiences, projects and internships.
+                </p>
+
+                <div class="contact-item">
+                    <span class="contact-icon">✉</span>
+                    <div>
+                        <strong>Email Address</strong>
+                        <a href="mailto:khanmisba2424@gmail.com">
+                            khanmisba2424@gmail.com
+                        </a>
+                    </div>
+                </div>
+
+                <div class="contact-item">
+                    <span class="contact-icon">☎</span>
+                    <div>
+                        <strong>Phone Number</strong>
+                        <a href="tel:9930064267">9930064267</a>
+                    </div>
+                </div>
+
+                <a href="mailto:khanmisba2424@gmail.com" class="btn">
+                    Send Me an Email
+                </a>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+
+        <div class="footer-profile">
+            <img src="misbah.jpg" alt="Misbah Ayyub Khan">
+        </div>
+
+        <h3>Misbah Ayyub Khan</h3>
+        <p>Aspiring Full Stack Developer</p>
+
+        <p class="copyright">
+            &copy; 2026 Misbah Ayyub Khan. All rights reserved.
+        </p>
+
+        <a href="#home" class="back-to-top">Back to Top ↑</a>
+
+    </footer>
+
+</body>
+</html>
